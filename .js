@@ -1,4 +1,4 @@
-function random_item(items)
+function computerPlay(items)
 {
   
 return items[Math.floor(Math.random()*items.length)];
